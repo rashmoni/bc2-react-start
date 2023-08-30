@@ -1,12 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './assets/logo.svg';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        
+        <hi> Bc2 React Getting Started </hi>
+        
+       <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
